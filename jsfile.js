@@ -36,7 +36,7 @@
     
     sp.style = "background-color: gray; border: 6px solid white;width:50px;height:30px;";
 
-    // confirm lowercase to uppercase
+    // convert lowercase to uppercase
     var t = document.createTextNode(result);
     sp.appendChild(t);
     document.body.appendChild(sp);  
